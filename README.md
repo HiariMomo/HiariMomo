@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a java project with my friends<br>👯 I’m looking to have experience on job training<br>🤝 I’m looking for help with seniors <br>🌱 I’m currently learning react and continue to full stack developer<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a java project with my friends<br>👯 I’m looking to have experience on job training<br>🤝 I’m looking for help with seniors <br>🌱 I’m currently learning spring boot and continue to full stack developer<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
